@@ -480,3 +480,6 @@ footer {
   button[type="submit"]:hover {
     background-color: #0056b3;
   }
+html {
+  scroll-behavior: smooth;
+}
